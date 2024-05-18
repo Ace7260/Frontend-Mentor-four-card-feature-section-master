@@ -16,7 +16,7 @@ Your users should:
 ### Links
 
 - Solution URL: [On github](https://github.com/Ace7260/Frontend-Mentor-four-card-feature-section-master.git)
-- Live Site URL: [Live](https://social-links-profile-roan-tau.vercel.app/)
+- Live Site URL: [Live](https://four-card-feature-section-lac-two.vercel.app/)
 
 ### Built with
 
